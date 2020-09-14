@@ -1,6 +1,6 @@
 <h2> Hi, I'm Bruno! <img src="https://media.giphy.com/media/KcWdO5QnBY8vu5odJO/giphy.gif" width="50"></h2>
 
-<img align='right' src="https://assets.b9.com.br/wp-content/uploads/2015/05/starbucks-gif-grande.gif" width="230">
+<img align='right' src="https://assets.b9.com.br/wp-content/uploads/2015/05/starbucks-gif-grande.gif" width="230" border-radius="5%">
 <p><em>Information System at <a href="https://www.puc-campinas.edu.br">PUCC - University of Campinas</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
 [![Instagram: c_bruno_](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://www.instagram.com/c_bruno_?r=nametag)
