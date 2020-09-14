@@ -1,6 +1,6 @@
-<h2> Hi, I'm Bruno! <img src="https://media2.giphy.com/media/lp258KxT337XoViQoi/source.gif" width="50"></h2>
+<h2> Hi, I'm Bruno! <img src="https://media.giphy.com/media/KcWdO5QnBY8vu5odJO/giphy.gif" width="50"></h2>
 
-
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 ```javascript
 const bruno = {
   pronouns: "he" | "his",
