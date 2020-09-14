@@ -5,7 +5,7 @@
 ### A little more about me...  
 ```javascript
 const bruno = {
-  pronouns: "he" | "his",
+  pronouns: "He" | "Him",
   code: [Javascript, Typescript, HTML, CSS, Python, Java, C#, Flutter],
   tools: [React, Node, Angular],
 }
